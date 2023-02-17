@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "productNumber": "A14GG",
+      "productDescription": "Nice One",
+      "productActive": true,
+      "productClass": "Bicycles",
+      "unitOfMeasure": [
+        "EA",
+        "MTR",
+        "CM"
+      ],
+      "suggestedVendor": [
+        "Acme suppliers",
+        "Devgiri Forgings",
+        "VR Precisions"
+      ],
+      "id": 1
+    },
+    {
+      "productNumber": "A14GG",
+      "productDescription": "Nice One",
+      "productActive": true,
+      "productClass": "Bicycles",
+      "unitOfMeasure": [
+        "EA",
+        "MTR",
+        "CM"
+      ],
+      "unitOfMeasureSelected": "MTR",
+      "suggestedVendor": [
+        "Acme suppliers",
+        "Devgiri Forgings",
+        "VR Precisions"
+      ],
+      "id": 2
+    }
+  ]
+}
